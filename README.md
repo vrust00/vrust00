@@ -1,16 +1,15 @@
-## Hi there 👋
+## Привет, я верстальщик
 
-<!--
-**vrust00/vrust00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Делаю адаптивные лендинги, сайты-визитки и многостраничники по макетам Figma.  
+HTML5, CSS3, SCSS, JavaScript, БЭМ — мой основной стек.
 
-Here are some ideas to get you started:
+### Мои работы (4 проекта):
+- [Лендинг строительной компании](https://vrust00.github.io/Construction-Company-Design/)
+- [Многостраничный сайт студии дизайна Frame & Form](https://vrust00.github.io/Modern-Brand-Design-Studio/)
+- [Лендинг строительной компании](https://vrust00.github.io/Construction-Company-Design/)
+- [Лендинг строительной компании "Проспект+"](https://vrust00.github.io/Construction-Company-Prospekt-Plus/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Связаться
+- Telegram: [@j_mkll](https://t.me/j_mkll)
+
+Открыт для заказов.
