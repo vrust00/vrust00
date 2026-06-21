@@ -4,7 +4,7 @@
 HTML5, CSS3, SCSS, JavaScript, БЭМ — мой основной стек.
 
 ### Мои работы (4 проекта):
-- [Лендинг строительной компании](https://vrust00.github.io/Construction-Company-Design/)
+- [Лендинг сайта-визитки дизайнера Greg Classen](https://vrust00.github.io/Greg-Classen-Design/)
 - [Многостраничный сайт студии дизайна Frame & Form](https://vrust00.github.io/Modern-Brand-Design-Studio/)
 - [Лендинг строительной компании](https://vrust00.github.io/Construction-Company-Design/)
 - [Лендинг строительной компании "Проспект+"](https://vrust00.github.io/Construction-Company-Prospekt-Plus/)
